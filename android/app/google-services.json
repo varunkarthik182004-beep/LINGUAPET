@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455843296074",
+    "project_id": "linguapet-44254",
+    "storage_bucket": "linguapet-44254.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455843296074:android:e989f48db7e579556387b3",
+        "android_client_info": {
+          "package_name": "com.example.linguapet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcAciOy5y4U53JuwNorXytbbvjz8WO_to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
